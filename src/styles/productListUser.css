@@ -1,0 +1,29 @@
+.product-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #fff;
+    text-align: center;
+    flex: 1 1 calc(33.333% - 32px);
+    box-sizing: border-box;
+  }
+  
+  .product-item img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 16px;
+  }
+  
+  .product-item .btn {
+    margin-top: 8px;
+  }
+  
