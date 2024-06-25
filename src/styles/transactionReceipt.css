@@ -1,0 +1,17 @@
+.transaction-receipt {
+    padding: 20px;
+  }
+  
+  .transaction-receipt h1,
+  .transaction-receipt h2 {
+    margin-bottom: 20px;
+  }
+  
+  .transaction-receipt .detail-group {
+    margin-bottom: 15px;
+  }
+  
+  .transaction-receipt .btn {
+    margin-top: 20px;
+  }
+  

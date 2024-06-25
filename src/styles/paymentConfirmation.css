@@ -1,0 +1,16 @@
+.payment-confirmation-container {
+    padding: 20px;
+  }
+  
+  .payment-confirmation-header {
+    margin-bottom: 20px;
+  }
+  
+  .payment-confirmation-details {
+    margin-bottom: 15px;
+  }
+  
+  .payment-confirmation-buttons .btn {
+    margin-right: 10px;
+  }
+  

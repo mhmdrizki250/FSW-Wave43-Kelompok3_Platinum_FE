@@ -1,0 +1,22 @@
+.confirmation-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    margin: 20px 0;
+  }
+  
+  .confirmation-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-detail {
+    margin-bottom: 10px;
+  }
+  
+  .confirmation-button {
+    display: flex;
+    justify-content: center;
+  }
+  

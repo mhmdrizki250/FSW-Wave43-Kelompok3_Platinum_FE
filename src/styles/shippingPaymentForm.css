@@ -1,0 +1,17 @@
+.shipping-payment-form {
+    padding: 20px;
+  }
+  
+  .shipping-payment-form h1,
+  .shipping-payment-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .shipping-payment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .shipping-payment-form .btn {
+    margin-top: 20px;
+  }
+  
